@@ -19,12 +19,6 @@ If you find these works useful, please ⭐ **star** them or **cite** them in you
 | **AEIA** | [![Paper](https://img.shields.io/badge/arXiv%3A2502.13053-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.13053) | [![Code](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/YurunChen/AEIA) | [![Stars](https://img.shields.io/github/stars/YurunChen/AEIA?style=flat-square&logo=github)](https://github.com/YurunChen/AEIA) |
 | **OS Agents** | [![Paper](https://img.shields.io/badge/arXiv%3A2508.04482-blue?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.04482) | [![Project](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/OS-Agent-Survey/OS-Agent-Survey) | [![Stars](https://img.shields.io/github/stars/OS-Agent-Survey/OS-Agent-Survey?style=flat-square&logo=github)](https://github.com/OS-Agent-Survey/OS-Agent-Survey) |
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YurunChen&count_private=true&theme=vue&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurunChen&langs_count=8&theme=vue&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
