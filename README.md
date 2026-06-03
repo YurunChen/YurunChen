@@ -5,7 +5,7 @@ Ph.D. student at **Zhejiang University**, working on **Computer-Using Agent (CUA
 [Homepage](https://yurunchen.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=DGRecXEAAAAJ) · [Email](mailto:yurunchen.research@gmail.com)
 
 
-## 🔬 Research Focus
+## Research Focus
 
 I study how to equip CUAs with effective guardrails and how to systematically uncover safety vulnerabilities in realistic deployment settings. Open to collaborations — feel free to reach out via [email](mailto:yurunchen.research@gmail.com)!
 
